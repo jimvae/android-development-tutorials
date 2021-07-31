@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147101083001",
+    "firebase_url": "https://firestoreproject-cadfd.firebaseio.com",
+    "project_id": "firestoreproject-cadfd",
+    "storage_bucket": "firestoreproject-cadfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147101083001:android:0a7952249c8306a353fba8",
+        "android_client_info": {
+          "package_name": "com.orbital.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147101083001-9tosdie7ih1h9be8ubr8p5es50apdeir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orbital.firestore",
+            "certificate_hash": "6839e9966f524de3975e92a04d0dea532f172b15"
+          }
+        },
+        {
+          "client_id": "147101083001-n0gauhkpcq0b9lgrtol2es82jfotco6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrdUstTZ1188GNecm4wiVHfiN6hkSYyNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147101083001-n0gauhkpcq0b9lgrtol2es82jfotco6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
