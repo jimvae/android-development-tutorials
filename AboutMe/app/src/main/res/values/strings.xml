@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Jim Vincent Andes Engay</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Jim Vincent.
+        \n I want to improve myself physically and mentally.
+        \n\n I want to make use of this summer to build myself as a programmer and as a person.
+        \n\n List of things that I want to accomplish by the end of Year 1 summer:
+        \n\n Create SNUS (Both front-end and back-end)
+        \n\n Finish reading 1984 and hopefully some other books
+        \n\n Lose at least 5 kg
+        \n\n To pursue the things that makes me happy
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
